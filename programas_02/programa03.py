@@ -1,0 +1,5 @@
+print("Dime tu nombre")
+nombre=input()
+print("Dime tu edad")
+edad=int(input())
+print(f"Tu nommbre es {nombre} y tienes {edad} años")
